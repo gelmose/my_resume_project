@@ -1,0 +1,27 @@
+body {
+    background-color: #e0f2fe; /* Light blue snow theme */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #334155;
+    margin: 0; padding: 20px;
+}
+
+#main-content {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 900px;
+    margin: auto;
+}
+
+h1 { color: #0284c7; }
+
+.video-container {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.nav-box {
+    background: #f1f5f9;
+    padding: 10px;
+    border: 1px solid #cbd5e1;
+}
